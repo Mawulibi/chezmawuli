@@ -1,0 +1,30 @@
+ hr {
+        background-color: none;
+        border-style: none;
+        border-top: dotted;
+        border-left: none;
+        border-right: none;
+        border-width: 10px;
+       width: 20%;
+       border-color: rgb(49, 111, 182);
+    }   
+ h6{
+        text-align:center;
+         color: antiquewhite
+    }
+h1{
+        text-align:center;
+         color: rgb(196, 39, 175);
+         font-family: Georgia, 'Times New Roman', Times, serif;
+         font-style: oblique;
+         font-size: 300%;
+    }
+.footer{
+        position: unset;
+        left: 10px;
+        bottom: 10%;
+        right: 10px;
+        background-color: greenyellow;
+        text-align: center;
+        font-size: 20px;
+    }
